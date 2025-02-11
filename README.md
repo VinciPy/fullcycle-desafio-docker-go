@@ -1,4 +1,4 @@
-##Descriçao
+# Descriçao
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
@@ -21,5 +21,5 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 Divirta-se!
 
 
-#Link do projeto 
-docker pull vincipy/desafio-fullcyle-go
+## Link do projeto 
+- docker pull vincipy/desafio-fullcyle-go
